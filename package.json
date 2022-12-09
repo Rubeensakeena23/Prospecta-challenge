@@ -1,0 +1,23 @@
+{
+  "name": "prospecta-challenge",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/75937165/206642122-4d67d168-058c-4acb-ba15-19d3a601e765.png)\r APIs are a great way of making our",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubeensakeena23/Prospecta-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubeensakeena23/Prospecta-challenge/issues"
+  },
+  "homepage": "https://github.com/Rubeensakeena23/Prospecta-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
